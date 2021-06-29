@@ -9,3 +9,26 @@
 body {
     font-family: 'Rubik Mono One', sans-serif;
 }
+
+/* Navigation */
+nav {
+    text-align: right;
+}
+nav li {
+    display: inline-block;
+}
+
+/* Main */
+main section {
+    width: 100%;
+    height: 100vh;
+}
+.back-red {
+    background-color: red;
+}
+.back-green {
+    background-color: green;
+}
+.back-yellow {
+    background-color: yellow;
+}
