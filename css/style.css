@@ -14,6 +14,9 @@ body {
 	display: table;
 	clear: both;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 /* Header  */
 header {
